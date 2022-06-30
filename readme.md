@@ -15,6 +15,7 @@
 
 1. 先`fork`本仓库
 
+
    ![image-20210405124959083](https://cdn.jsdelivr.net/gh/luzy99/cdn@latest/img/20210405130131.png)
 
 2. 进入您账号下的`SEUAutoLogin`仓库，点击`Settings`，找到`Secrets`，点击 `New repository secret`新建仓库密钥
